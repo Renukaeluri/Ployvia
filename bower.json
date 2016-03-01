@@ -1,0 +1,21 @@
+{
+  "name": "trianglify",
+  "main": "dist/trianglify.min.js",
+  "homepage": "",
+  "authors": [
+     "Renukaeluri <eluri.renuka@gmail.com>"
+  ],
+  "description": "Trianglify is a javascript library for generating colorful triangle meshes that can be used as SVG images and CSS backgrounds.",
+  "keywords": [
+    "svg",
+    "d3.js",
+    "visualization"
+  ],
+  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
